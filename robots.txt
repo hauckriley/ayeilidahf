@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeziya.setoid.net/sitemap.xml
